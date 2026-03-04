@@ -1,0 +1,5 @@
+# STUDENT-RESULT-MANAGEMENT-SYSTEM
+
+# 🎓 AI-Enhanced Student Result Management System
+
+This project is a desktop-based Student Result Management System developed using Python with Tkinter for the graphical user interface and Machine Learning for intelligent prediction. The system allows users to enter student marks in six subjects, automatically calculate total marks, average, and grade, and predict pass/fail status using a trained Logistic Regression model from Scikit-learn. It also enables saving student records to a CSV file for persistent storage and provides data visualization features such as subject-wise average bar graphs and correlation heatmaps using Matplotlib and Seaborn. The model is trained on historical student data with an 80/20 train-test split and evaluated using accuracy score, confusion matrix, and classification report. This project demonstrates the integration of machine learning, data analysis, and GUI development into a practical, real-world academic management application.
