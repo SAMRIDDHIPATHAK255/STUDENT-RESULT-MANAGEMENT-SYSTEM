@@ -124,9 +124,4 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
 
-**Samriddhi Pathak**
-Data Science & Machine Learning Enthusiast
-
----
